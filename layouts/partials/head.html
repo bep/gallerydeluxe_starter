@@ -4,5 +4,7 @@
     {{ $css = $css | minify | fingerprint }}
 {{ end }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}"></link>
-<script defer data-domain="staticbattery.com" src="https://plausible.io/js/plausible.js"></script>
+{{ with site.Params.plausible_domain }}
+<script defer data-domain="{{ . }}" src="https://plausible.io/js/plausible.js"></script>
+{{ end }}
 
