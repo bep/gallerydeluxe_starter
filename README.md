@@ -8,4 +8,8 @@ This is a starter project for the [Gallery Deluxe](https://github.com/bep/galler
 
 This starter projects can be previewd at [gallerydeluxe.netlify.app](https://gallerydeluxe.netlify.app/). A bigger gallery can be found at [staticbattery.com](https://staticbattery.com/).
 
+## Update theme
+
+Run `hugo mod get -u` to update to a newer version of Gallery Deluxe if one exists.
+
 [^1]: I wish GitHub's template project feature had support for variable replacements.
