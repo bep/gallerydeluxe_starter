@@ -3,6 +3,9 @@ title        = "Gallery Deluxe"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
+    # Set to enable Plausible Analytics.
+    plausible_domain = ""
+
     [params.gallerydeluxe]
         # Shuffle the images in the gallery to give the impression of a new gallery each page load.
         shuffle = false
