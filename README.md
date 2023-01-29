@@ -5,6 +5,7 @@ This is a starter project for the [Gallery Deluxe](https://github.com/bep/galler
 1. Click on use "Use this template" and give your new GitHub project a suitable name.
 1. Edit `go.mod` and replace the path with your new GitHub project's path[^1]. 
 1. Edit `config.toml` etc. to match your setup and replace the images inside `content/images` with your own.
+1. Add your custom SVG logo in [layouts/partials/logo.html](layouts/partials/logo.html)
 
 This starter projects can be previewd at [gallerydeluxe.netlify.app](https://gallerydeluxe.netlify.app/). A bigger gallery can be found at [staticbattery.com](https://staticbattery.com/).
 
