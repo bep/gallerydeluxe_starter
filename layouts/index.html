@@ -20,7 +20,7 @@
   */}}
   {{ $bundle := site.GetPage "images" }}
   {{ $images := $bundle.Resources.ByType "image" }}
-  {{ $gallery := partial "gallerydeluxe/init.html" (dict "images" $images) }}
+  {{ $gallery := partial "gallerydeluxe/init.html" (dict "sourcePath" "images") }}
   {{ $params := site.Params.gallerydeluxe }}
   {{/* We currently only support 1 gallery per page, which is create4 by an element with id 'gallerydeluxe',
     and a valid data url.
