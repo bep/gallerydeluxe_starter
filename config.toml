@@ -20,7 +20,7 @@ disableKinds = ["section", "taxonomy", "term"]
 
         # Optional watermark file for the large images.
         [params.gallerydeluxe.watermark]
-            image = "images/gopher-hero8.png"
+            image = "images/gopher-hero8.png" # relative to /assets
             posx  = "left"                    # one of "left", "center", "right"
             posy  = "bottom"                  # one of "top", "center", "bottom"
 
