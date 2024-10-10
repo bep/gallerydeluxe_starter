@@ -16,3 +16,5 @@ github.com/bep/gallerydeluxe v0.11.0 h1:A5me+REJREWnHTC73yKeuXcC7g3V3s0DjgY7EDMw
 github.com/bep/gallerydeluxe v0.11.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
 github.com/bep/gallerydeluxe v0.11.1 h1:Bls2hBDY7WJ01TKtbmQT0Cl/Nwy8S/r5yj5qBaP7elo=
 github.com/bep/gallerydeluxe v0.11.1/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
+github.com/bep/gallerydeluxe v0.12.0 h1:Sb6I9WYitsNdgHyS8xxTLUzNpSrUeE9Ihwh1RGmgeEc=
+github.com/bep/gallerydeluxe v0.12.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
